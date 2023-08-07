@@ -14,5 +14,13 @@
     "image": "/uploads/brownie3.jpg",
     "description": "Un delicioso brownie de chocolate con nueces.",
     "product_url": "/"
+  },
+  {
+    "id": "CHOCO-MUFFIN",
+    "name": "Muffin de Chocolate y Fresas",
+    "price": 1400,
+    "image": "/uploads/muffin-fresa.jpeg",
+    "description": "Muffin de chocolate con fresas. Delicioso!",
+    "product_url": null
   }
 ]
