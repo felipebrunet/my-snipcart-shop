@@ -10,7 +10,7 @@
   {
     "id": "BROWNIE",
     "name": "Brownie de Chocolate con nueces",
-    "price": 12,
+    "price": 12.25,
     "image": "/uploads/brownie3.jpg",
     "description": "Un delicioso brownie de chocolate con nueces.",
     "product_url": "/"
