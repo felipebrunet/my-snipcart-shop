@@ -1,7 +1,7 @@
 [
   {
     "id": "CHOCO-CAKE",
-    "name": "Chocolate Cake",
+    "name": "Torta de Chocolate",
     "price": 10,
     "image": "/uploads/choco-cake1.jpeg",
     "description": "Una torta de Chocolate exquisita!",
@@ -9,10 +9,10 @@
   },
   {
     "id": "BROWNIE",
-    "name": "Chocolate Brownie with Nuts",
+    "name": "Brownie de Chocolate con nueces",
     "price": 12,
     "image": "/uploads/brownie3.jpg",
     "description": "Un delicioso brownie de chocolate con nueces.",
-    "product_url": ""
+    "product_url": "/"
   }
 ]
